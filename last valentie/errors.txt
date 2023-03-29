@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 196: expected ':' not found.
+    "ada berapa cara Menyusun kata /"matematika/" /n anda boleh gunakan catetan buat mengerjakannya"
+                                     ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Mon Feb 27 19:55:16 2023
